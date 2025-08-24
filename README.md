@@ -1,5 +1,5 @@
 # Radius-Raid-Solaris
-Radius Raid Solaris
+Radius Raid Solaris for Android.
 
 
 Based on https://github.com/jackrugile/radius-raid-js13k
